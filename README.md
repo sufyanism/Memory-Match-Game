@@ -41,8 +41,8 @@ memory_match_game/
 The gameplay mechanism involves duplicating and shuffling a list of emojis to form matching pairs. Each grid tile represents a concealed card that can be flipped upon user interaction.
 
 When two cards are flipped:
-• If they match → they remain visible.
-• If they do not match → they revert to their hidden state after a brief delay.
+- If they match → they remain visible.
+- If they do not match → they revert to their hidden state after a brief delay.
 Upon successful matching of all pairs, the application displays a “Play Again” button to restart gameplay.
 
 ## 💻 Core Code Overview
@@ -52,11 +52,11 @@ Upon successful matching of all pairs, the application displays a “Play Again�
 Additionally, the implementation employs AnimatedContainer for seamless color transitions during flip events.
 
 ## 🎨 Future Improvements
-• Integrate advanced flip animations using AnimatedSwitcher or Transform widgets.
-• Incorporate scoring metrics and time-tracking features.
-• Introduce variable difficulty levels (3x4, 4x4, 6x6 grid configurations).
-• Substitute emojis with scalable images or vector icons.
-• Add immersive audio feedback and background music for enhanced user experience.
+- Integrate advanced flip animations using AnimatedSwitcher or Transform widgets.
+- Incorporate scoring metrics and time-tracking features.
+- Introduce variable difficulty levels (3x4, 4x4, 6x6 grid configurations).
+- Substitute emojis with scalable images or vector icons.
+- Add immersive audio feedback and background music for enhanced user experience.
 
 ## About Me 
 ✨ I’m **Sufyan bin Uzayr**, an open-source developer passionate about building and sharing meaningful projects.
@@ -72,3 +72,4 @@ You can learn more about me and my work at [sufyanism.com](https://sufyanism.com
 ➡ Follow us on Instagram: [zeba.academy](https://www.instagram.com/zeba.academy/)  <br/>
 
 **Thank you for visiting!** 
+
