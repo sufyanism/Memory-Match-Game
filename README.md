@@ -54,6 +54,9 @@ Upon successful matching of all pairs, the application displays a “Play Again�
 - _isGameComplete → Validates completion status once all card pairs are matched.
 Additionally, the implementation employs AnimatedContainer for seamless color transitions during flip events.
 
+## Demo
+https://github.com/user-attachments/assets/e342cd5b-df15-46b3-8a9c-7f493d76f16b
+
 ## 🎨 Future Improvements
 - Integrate advanced flip animations using AnimatedSwitcher or Transform widgets.
 - Incorporate scoring metrics and time-tracking features.
@@ -75,6 +78,7 @@ You can learn more about me and my work at [sufyanism.com](https://sufyanism.com
 ➡ Follow us on Instagram: [zeba.academy](https://www.instagram.com/zeba.academy/)  <br/>
 
 **Thank you for visiting!** 
+
 
 
 
