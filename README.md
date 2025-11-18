@@ -4,12 +4,12 @@
 This is a simple and engaging Flutter Memory Match Game in which players flip cards to identify matching pairs of emojis. It is an ideal beginner-level project for understanding Flutter UI principles, state management using setState(), and foundational game logic concepts such as matching, flipping, and resetting cards.
 
 ## 📱 Features
-• 4x4 Emoji-based card grid
-• Flip two cards to check for matches
-• Matched cards stay revealed
-• “Play Again” button after all pairs are matched
-• Clean, minimal Material UI
-• Pure Flutter — no external packages required
+- 4x4 Emoji-based card grid
+- Flip two cards to check for matches
+- Matched cards stay revealed
+- “Play Again” button after all pairs are matched
+- Clean, minimal Material UI
+- Pure Flutter — no external packages required
 
 ## 🚀 Getting Started
 Follow these procedural steps to set up and execute the application:
@@ -72,4 +72,5 @@ You can learn more about me and my work at [sufyanism.com](https://sufyanism.com
 ➡ Follow us on Instagram: [zeba.academy](https://www.instagram.com/zeba.academy/)  <br/>
 
 **Thank you for visiting!** 
+
 
