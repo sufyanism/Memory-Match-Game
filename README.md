@@ -13,7 +13,7 @@ This is a simple and engaging Flutter Memory Match Game in which players flip ca
 
 ## 🚀 Getting Started
 Follow these procedural steps to set up and execute the application:
-- **1. Install Flutter**
+ **1. Install Flutter**
 
 Follow the official Flutter installation guide:
 👉 Flutter Setup Guide
@@ -78,6 +78,7 @@ You can learn more about me and my work at [sufyanism.com](https://sufyanism.com
 ➡ Follow us on Instagram: [zeba.academy](https://www.instagram.com/zeba.academy/)  <br/>
 
 **Thank you for visiting!** 
+
 
 
 
